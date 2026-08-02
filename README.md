@@ -1,6 +1,6 @@
 ## Collaborative work
 
-Co-founder and contributor at [KiaBush](https://github.com/KiaBush), focused on
+Founder and contributor at [KiaBush](https://github.com/KiaBush), focused on
 machine learning, Persian speech processing, and open-source engineering.
 <!--
 **a-kiaei/a-kiaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
