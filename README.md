@@ -1,7 +1,7 @@
 ## Collaborative work
 
-Founder and contributor at [KiaBush](https://github.com/KiaBush), focused on
-machine learning, Persian speech processing, and open-source engineering.
+Founder and contributor at [KiaBush](https://github.com/KiaBush) and [QAI-Brain](https://github.com/QAI-brain), focused on
+Quantum Artificial Intelligence, machine learning, Persian speech processing, and open-source engineering.
 <!--
 **a-kiaei/a-kiaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
