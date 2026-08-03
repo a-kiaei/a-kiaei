@@ -3,7 +3,7 @@
 Founder and contributor at [KiaBush](https://github.com/KiaBush) and [QAI-Brain](https://github.com/QAI-brain), focused on
 Quantum Artificial Intelligence, machine learning, Persian speech processing, and open-source engineering.
 
-## KiaBush Projects
+## KiaBush Organization
 
 Open-source software and machine-learning projects developed through the
 [KiaBush organization](https://github.com/KiaBush).
@@ -11,7 +11,7 @@ Open-source software and machine-learning projects developed through the
 - [Persian Text-to-IPA ByT5](https://github.com/KiaBush/persian-text-to-ipa-byt5) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tuned ByT5 model.
 - [MemDisk](https://github.com/KiaBush/memdisk) — A simple HTTP API over RAM-backed filesystems for temporary files, preprocessing pipelines, and short-lived artifacts.
 
-## QAI-brain Projects
+## QAI-brain Organization
 
 Public research and software projects developed through the
 [QAI-brain organization](https://github.com/QAI-brain).
