@@ -8,7 +8,7 @@ Quantum Artificial Intelligence, machine learning, Persian speech processing, an
 Open-source software and machine-learning projects developed through the
 [KiaBush organization](https://github.com/KiaBush).
 
-- [Persian Text-to-IPA ByT5](https://github.com/KiaBush/persian-text-to-ipa-byt5) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tuned ByT5 model.
+- [Persian Text-to-IPA ByT5](https://github.com/KiaBush/persian-text-to-ipa-byt5) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tuned ByT5 model, available on [Hugging Face](https://huggingface.co/KiaBush/persian-text-to-ipa-byt5).
 - [Persian IPA-to-Speech F5](https://github.com/KiaBush/Persian-IPA-to-Speech-F5) — Persian phoneme-to-speech synthesis from raw Unicode IPA using a fine-tuned F5-TTS model, available on [Hugging Face](https://huggingface.co/KiaBush/Persian-IPA-to-Speech-F5) and [PyPI](https://pypi.org/project/persian-ipa-to-speech-f5/).
 - [MemDisk](https://github.com/KiaBush/memdisk) — A simple HTTP API over RAM-backed filesystems for temporary files, preprocessing pipelines, and short-lived artifacts.
 
